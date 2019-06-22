@@ -1,0 +1,43 @@
+{
+  "name": "awezashopping",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "firebase": "^6.0.2",
+    "react": "16.8.3",
+    "react-native": "0.59.8",
+    "react-native-check-box": "^2.1.7",
+    "react-native-customized-image-picker": "^0.1.5",
+    "react-native-elements": "^1.1.0",
+    "react-native-fast-image": "^6.0.1",
+    "react-native-fbsdk": "^0.8.0",
+    "react-native-geolocation-service": "^2.0.1",
+    "react-native-google-signin": "^2.0.0",
+    "react-native-image-crop-picker": "^0.24.0",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-inviewport": "^1.1.0",
+    "react-native-location": "^2.2.0",
+    "react-native-maps": "^0.24.2",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-search-filter": "^0.1.4",
+    "react-native-share": "^1.2.1",
+    "react-native-swiper": "^1.5.14",
+    "react-native-vector-icons": "^6.4.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/runtime": "^7.4.4",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

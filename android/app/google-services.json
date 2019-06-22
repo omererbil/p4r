@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340466835208",
+    "firebase_url": "https://awezashopping.firebaseio.com",
+    "project_id": "awezashopping",
+    "storage_bucket": "awezashopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340466835208:android:d2154fc6cabc96c6",
+        "android_client_info": {
+          "package_name": "com.awezashopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340466835208-kgf6nnas48dp62ddlr91efv5i5b29jd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awezashopping",
+            "certificate_hash": "d3f29f605c0a6538f122467bf26f6ae815983425"
+          }
+        },
+        {
+          "client_id": "340466835208-b844g0snkqis9munjk7p4e4644pr184r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhSTxKmD4-jFTsD-VXucgOtfHxBvGmohw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340466835208-b844g0snkqis9munjk7p4e4644pr184r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
