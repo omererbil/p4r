@@ -15,7 +15,7 @@
     "react-native-customized-image-picker": "^0.1.5",
     "react-native-elements": "^1.1.0",
     "react-native-fast-image": "^6.0.1",
-    "react-native-fbsdk": "^0.8.0",
+    "react-native-fbsdk": "^3.0.0",
     "react-native-geolocation-service": "^2.0.1",
     "react-native-google-signin": "^2.0.0",
     "react-native-image-crop-picker": "^0.24.0",
